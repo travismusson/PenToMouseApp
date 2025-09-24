@@ -1,0 +1,14 @@
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\bin\Debug\net9.0\PenToMouseBackend.exe
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\bin\Debug\net9.0\PenToMouseBackend.deps.json
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\bin\Debug\net9.0\PenToMouseBackend.runtimeconfig.json
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\bin\Debug\net9.0\PenToMouseBackend.dll
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\bin\Debug\net9.0\PenToMouseBackend.pdb
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\obj\Debug\net9.0\PenToMouseBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\obj\Debug\net9.0\PenToMouseBackend.AssemblyInfoInputs.cache
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\obj\Debug\net9.0\PenToMouseBackend.AssemblyInfo.cs
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\obj\Debug\net9.0\PenToMouseBackend.csproj.CoreCompileInputs.cache
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\obj\Debug\net9.0\PenToMouseBackend.dll
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\obj\Debug\net9.0\refint\PenToMouseBackend.dll
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\obj\Debug\net9.0\PenToMouseBackend.pdb
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\obj\Debug\net9.0\PenToMouseBackend.genruntimeconfig.cache
+C:\Users\Travis\source\repos\PenToMouseBackend\PenToMouseBackend\obj\Debug\net9.0\ref\PenToMouseBackend.dll
