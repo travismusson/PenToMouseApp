@@ -7,8 +7,8 @@ namespace PenToMouseBackend
     internal class Program
     {
         private const int listenPort = 5000;
-        private static void StartListener()     //basic listener for UDP packets
-            //so now that we have basic listener and we are receiving the packets we need to store/update them and use them to move mouse
+        private static void StartListener()     //basic listener for UDP packets, could utilize tcp here for more reliability but udp is faster and we can handle some packet loss
+                                                //so now that we have basic listener and we are receiving the packets we need to store/update them and use them to move mouse
         {
             UdpClient listener = new UdpClient(listenPort);
             IPEndPoint groupEP = new IPEndPoint(IPAddress.Any, listenPort);
@@ -61,7 +61,7 @@ namespace PenToMouseBackend
                         // Debug: Check if coordinates are within expected bounds
                         //Console.WriteLine($"Raw phone coords: X: {phoneX} (max: {phoneWidth}), Y: {phoneY} (max: {phoneHeight})");
 
-                        // Clamp coordinates to phone screen bounds to prevent going off-screen gpt inspired
+                        // Clamp coordinates to phone screen bounds to prevent going off-screen -- gpt inspired
                         phoneX = Math.Max(0, Math.Min(phoneX, phoneWidth));
                         phoneY = Math.Max(0, Math.Min(phoneY, phoneHeight));
 
@@ -119,3 +119,6 @@ namespace PenToMouseBackend
         }
     }
 }
+
+
+//thinking of adding another project specficially winforms to handle ui and settings, could be useful to have a tray icon and some basic settings, also a nav bar in top center of screen for quick access to paint or settings lets say

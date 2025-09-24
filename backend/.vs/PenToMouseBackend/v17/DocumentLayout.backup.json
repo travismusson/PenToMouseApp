@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Travis\\source\\repos\\travismusson\\PenToMouseApp\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C143371-C210-4545-A6A1-199BFF02117C}|PenToMouseBackend\\PenToMouseBackend.csproj|c:\\users\\travis\\source\\repos\\travismusson\\pentomouseapp\\backend\\pentomousebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C143371-C210-4545-A6A1-199BFF02117C}|PenToMouseBackend\\PenToMouseBackend.csproj|solutionrelative:pentomousebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Travis\\source\\repos\\travismusson\\PenToMouseApp\\backend\\PenToMouseBackend\\Program.cs",
+              "RelativeDocumentMoniker": "PenToMouseBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Travis\\source\\repos\\travismusson\\PenToMouseApp\\backend\\PenToMouseBackend\\Program.cs",
+              "RelativeToolTip": "PenToMouseBackend\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T08:34:52.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
