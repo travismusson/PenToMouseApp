@@ -1,5 +1,5 @@
 # PenToMouseApp
-## A Simple App that allows for my S25 Stylus to connect to my PC and act as a drawing tablet
+### A Simple App that allows for my S25 Stylus to connect to my PC and act as a drawing tablet
 
 *Current Features*
 - Sends UDP Packets From Phone(Frontend) to PC(Backend) that contains the coordinates, pressure and touch type from the stylus
